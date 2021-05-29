@@ -9,4 +9,6 @@ After training we can deploy this model for predicting with live voices.
 
 Learn the basics of Python, ML/DL, NLP, librosa, sklearn, etc , Literature Review , analyzing the dataset and 
 Feature extraction. Building and training the model on the training data, followed by testing on test data. And 
-finally, testing the model on live audio input (unseen) and collecting the results.
+finally, testing the model on live audio input (unseen) and collecting the results:)
+
+
