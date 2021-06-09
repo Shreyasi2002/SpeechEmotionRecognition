@@ -73,3 +73,10 @@ Week 7:
 End term deliverables: 
 
     - Presenting the progression of project and evaluating the model on live speech.
+    
+    
+## References:
+
+     - http://aishelf.org/audio-recog/
+     
+     - https://ijesc.org/upload/bc86f90a8f1d88219646b9072e155be4.Speech%20Emotion%20Recognition%20using%20MLP%20Classifier.pdf
