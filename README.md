@@ -6,7 +6,9 @@ Speech Emotion Recognition, abbreviated as SER, is the act of attempting to reco
 affective states from speech. This is capitalizing on the fact that voice often reflects underlying emotion through tone and pitch. 
 Emotion recognition is a rapidly growing research domain in recent years. Unlike humans, machines lack the abilities to perceive 
 and show emotions. But human-computer interaction can be improved by implementing automated emotion recognition, thereby 
-reducing the need of human intervention. In this project, basic emotions like calm, happy, fearful, disgust etc. are analyzed from 
+reducing the need of human intervention.
+
+In this project, basic emotions like calm, happy, fearful, disgust etc. are analyzed from 
 emotional speech signals. We use machine learning techniques like Multilayer perceptron Classifier (MLP Classifier) which is 
 used to categorize the given data into respective groups which are non linearly separated. Mel-frequency cepstrum coefficients 
 (MFCC), chroma and mel features are extracted from the speech signals and used to train the MLP classifier. For achieving this 
@@ -26,31 +28,48 @@ finally, testing the model on live audio input (unseen) and collecting the resul
 ## Schedule:
 
 Week1: 
+
     • covering ml\dl basics
 
 Week 2:
+
     • building  audio recorder
+    
     • plotting waveform and spectrogram
+    
     • learning audio preprocessing for feature extraction
 
 Week 3:
+
     • Implementing the code for feature extraction using Librosa library
 
 Week 4:
+
     • Implement the MLP model for emotion recognition
+    
     • Evaluating it on test set
 
-Mid-term deliverables:- showing the waveforms and spectrograms of audio waves and present the mlp model.
+Mid-term deliverables:
+
+    - showing the waveforms and spectrograms of audio waves and present the mlp model.
 
 Week 5:
+
     • Implementing LSTM model
+    
     • Starting to implement CNN model
 
 Week 6:
-    • Complete the CNN model implementation.
-    • Model will be evaluated on our voice
-Week 7:
-    • If interested then work could be done to improve accuracy by extracting some more features or by adding or removing some layers 
-Project ends.
 
-End term deliverables: Presenting the progression of project and evaluating the model on live speech.
+    • Complete the CNN model implementation.
+    
+    • Model will be evaluated on our voice
+    
+Week 7:
+
+    • If interested then work could be done to improve accuracy by extracting some more features or by adding or removing some layers 
+      Project ends.
+
+End term deliverables: 
+
+    - Presenting the progression of project and evaluating the model on live speech.
