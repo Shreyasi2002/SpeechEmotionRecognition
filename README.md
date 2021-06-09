@@ -80,3 +80,5 @@ End term deliverables:
      - http://aishelf.org/audio-recog/
      
      - https://ijesc.org/upload/bc86f90a8f1d88219646b9072e155be4.Speech%20Emotion%20Recognition%20using%20MLP%20Classifier.pdf
+     
+     - https://ricardodeazambuja.com/deep_learning/2019/03/09/audio_and_video_google_colab/
