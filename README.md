@@ -15,7 +15,7 @@ used to categorize the given data into respective groups which are non linearly 
 objective, we use python libraries like Librosa, sklearn, pyaudio, numpy and soundfile to analyze the speech modulations and 
 recognize the emotion. 
 
-Using RAVDESS dataset which contains  around 1500 audio file inputs from 24 different actors (12 male and 12 female ) who recorded short audios in 8 different emotions, we will train a NLP- based model which will be able to detect among the 8 basic emotions as well as the gender of the speaker i.e. Male voice or Female voice.  
+Using RAVDESS dataset which contains  around 1500 audio file inputs from 24 different actors (12 male and 12 female) who recorded short audios in 8 different emotions, we will train a NLP- based model which will be able to detect among the 8 basic emotions as well as the gender of the speaker i.e. Male voice or Female voice.  
 After training we can deploy this model for predicting with live voices.
 
 ## Deliverables:
